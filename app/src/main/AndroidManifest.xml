@@ -27,7 +27,6 @@
         <activity android:name=".News" />
         <activity android:name=".detail" />
         <activity android:name=".GiantSwing" />
-        <activity android:name=".Territorialcommandingunit" />
     </application>
 
 </manifest>
